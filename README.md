@@ -1,51 +1,77 @@
-Proyecto 2: Revisión de Perfil LinkedIn + GitHub.
-Revisión de Perfil LinkedIn
-1. Foto de perfil
+![Banner](assets/banner.png)
+# David Valbuena Rodríguez
 
-⚠️️Oportunidad de mejora: Asegurate de que el fondo sea neutro o profesional. Si usás una selfie o fondo informal, considerá actualizarla.
+# 👋 Hi, I’m David Valbuena Rodríguez  
 
-2. Banner (imagen de portada)
+💻 **QA Engineer | Software Tester | Junior Developer in training**  
 
-⛔Debe corregirse: Usá un banner sobrio que incluya tu nombre completo, tu rol profesional (ej. Full Stack Developer) y un dato de contacto (como tu correo o GitHub).
+I am a QA professional with experience in **functional testing, test case design, and API validation**.  
+Currently, I’m specializing in **test automation** and learning **Python and Ruby** to strengthen my technical skills.  
+I have an **intermediate level of English (B1)** which allows me to work in international and multicultural teams.  
 
-3. Titular profesional (headline)
+---
 
-⚠️️Oportunidad de mejora: Sumá palabras clave relacionadas con tu stack (ej. React, JavaScript, Python) y el tipo de puesto que buscás. Esto ayuda al algoritmo de LinkedIn a posicionarte mejor.
+## 🚀 Skills & Tools
 
-4. Sección "Acerca de" (About me)
+- 🧪 **Functional & Regression Testing**  
+- 🔗 **API Testing**: <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/SoapUI-6DB33F?style=flat&logo=swagger&logoColor=white"/>  
+- 🤖 **Automation in progress**: <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white"/>  
+- ⚡ **Load Testing**: <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apache&logoColor=white"/>  
+- 🐞 **Defect Tracking**: <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white"/>  
+- 🗄️ **Databases**: <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>  
+- ☁️ **Cloud**: <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white"/>  
+- 📋 **Agile**: <img src="https://img.shields.io/badge/Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white"/>  
 
-⚠️️Oportunidad de mejora: Sumaría en esta sección tu github y correo de contacto.
+---
 
-5.Experiencia
+## 📂 Featured Projects
+🔹 **QA Project - Urban Grocers API**  
+Automated tests with Python & `pytest`, validating kit creation and management in the app.  
+📌 [View Repository](https://github.com/davidvalbuenarod/urban-grocers-api)  
 
-✅Bien hecho: Listás experiencias pasadas con claridad y buena presentación.
+🔹 **QA Project - Taxi Application**  
+Log analysis, SQL queries, and ER diagram review to ensure data integrity.  
+📌 [View Repository](https://github.com/davidvalbuenarod/taxi-app-db)  
 
-⛔Debe corregirse: Añadí una breve descripción de tus tareas, logros o habilidades aplicadas. Asegurate de no incluir TripleTen como empleo (a menos que hayas trabajado ahí), y usá verbos de acción. Cuenta qué hiciste, como lo hiciste y qué resultado generaste.
+---
 
-6. Proyectos
+## 🌱 Currently Learning
+- Programming with **Python and Ruby**  
+- Best practices in **test automation**  
+- Testing frameworks like **Selenium, Pytest**  
 
-⛔Debe corregirse: Si no los agregaste aún, creá una sección de Proyectos donde compartas los que realizaste de manera autodidacta y los que realizaste con tripleten, que tecnologias usaste y el repositorio de github del mismo.
+---
 
-7. Educación
+## 💼 Work Experience
+**Foundever (2024 – Present)**  
+*Customer Experience & QA Support*  
+- Applied **test case execution** and **bug reporting** in real customer workflows.  
+- Improved issue tracking and communication between development and support teams.  
+- Gained hands-on experience with **tools like Jira, SQL queries, and QA methodologies**.  
 
-✅Bien hecho: Tu formación está bien detallada, incluyendo el bootcamp.
+---
 
-⚠️️Oportunidad de mejora: Si es posible, añadí una línea breve con habilidades desarrolladas o logros concretos (ej. “Construcción de CRUD con React y Firebase”). Usa palabras clave que los reclutadores buscan. Así tu perfil será encontrable, relevante y alineado a los filtros de selección.
+## 📚 Education
+**TripleTen Bootcamp – QA Engineer (2024 – 2025)**  
+- Manual & Automated Testing  
+- SQL & Database Queries  
+- API Testing (Postman, Pytest)  
+- Test Case Design & Reporting  
 
-8. Certificaciones
+---
 
-⚠️️Oportunidad de mejora: Agregá certificados relevantes, aunque sean cursos cortos, con enlace al diploma o plataforma (Coursera, Udemy, etc.).
+## 🌎 Languages
+- **Spanish**: Native  
+- **English**: Intermediate (B1-B2)  
 
-9. Idiomas
+---
 
-⛔Debe corregirse: Sumá esta sección con los niveles correspondientes. Mínimo: Español (nativo) e Inglés (básico/intermedio/avanzado).
+## 📫 Let’s Connect
+- 🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david80485)  
+- 💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/davidvalbuenarod)  
+- ✉️ davidrodriguez290@gmail.com  
 
-10. Habilidades y aptitudes (Skills)
+---
 
-✅Bien hecho: Listás habilidades técnicas clave, lo cual mejora tu visibilidad.
+⭐️ *Always open to new challenges and opportunities in QA and test automation.*  
 
-⚠️️Oportunidad de mejora: Reordená tus skills más importantes arriba. Sumá tecnologías, frameworks y soft skills. Activá la opción para que tus contactos validen tus conocimientos.
-
-11. Voluntariado (si aplica)
-
-⚠️️Oportunidad de mejora: Si tuviste alguna participación, incluila (aunque no sea tech). Es una gran forma de mostrar habilidades blandas como trabajo en equipo o liderazgo.
